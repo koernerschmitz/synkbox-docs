@@ -233,8 +233,7 @@
     "es-to-primitive": "^1.2.1",
     "es-array-method-boxes-properly": "^1.0.0",
     "es6-promise": "^4.2.8",
-    "esbuild": "^0.14.7",
-    "esbuild-windows-64": "^0.14.7",
+
     "escalade": "^3.1.1",
     "escape-string-regexp": "^1.0.5",
     "escape-goat": "^2.1.1",
