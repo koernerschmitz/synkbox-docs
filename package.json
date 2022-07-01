@@ -1,0 +1,20 @@
+{
+  "name": "synkbox-docs",
+  "version": "1.0.0",
+  "description": "Outreach Shame is the place to expose every lousy outreach emails. It’s every online marketer’s worst nightmares. These emails are everything you shouldn’t do to promote your business & content. Everything’s kept anonymous for good fun above all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koernerschmitz/synkbox-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koernerschmitz/synkbox-docs/issues"
+  },
+  "homepage": "https://github.com/koernerschmitz/synkbox-docs#readme"
+}
